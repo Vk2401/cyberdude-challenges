@@ -49,4 +49,4 @@ console.log("Final Cricket Team:", cricketTeam)
 
 ## References:
 
-[![Object CRUD  code review](https://i.ytimg.com/vi/-_8fbcy-TKY/maxresdefault.jpg)](http://www.youtube.com/watch?v=-_8fbcy-TKY "Object CRUD  code review Cyberdude youtube Live")
+[![Object CRUD  code review](https://i.ytimg.com/vi/4SAETZ1ojbQ/maxresdefault.jpg)](http://www.youtube.com/watch?v=4SAETZ1ojbQ "Object CRUD  code review Cyberdude youtube Live")

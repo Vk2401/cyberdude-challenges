@@ -98,4 +98,4 @@ console.log("Final Reference Fruits Array:", referenceFruits);
 
 ## References:
 
-[![Array CRUD Both datatype(Primitive and Reference) code review](https://i.ytimg.com/vi/-_8fbcy-TKY/maxresdefault.jpg)](http://www.youtube.com/watch?v=-_8fbcy-TKY "Array CRUD Both datatype(Primitive and Reference) code review Cyberdude youtube Live")
+[![Array CRUD Both datatype(Primitive and Reference) code review](https://i.ytimg.com/vi/5TlFwbbuGFA/maxresdefault.jpg)](http://www.youtube.com/watch?v=5TlFwbbuGFA "Array CRUD Both datatype(Primitive and Reference) code review Cyberdude youtube Live")
